@@ -21,7 +21,7 @@
 
 ### Heroku
 
-- [![Deploy](https://img.shields.io/badge/ＤΞＰＬ♢Ｙ%20RANGERSPAMBOT-black?style=for-the-badge&logo=heroku)](https://heroku.com/deploy/)
+- [![Deploy](https://img.shields.io/badge/ＤΞＰＬ♢Ｙ%20RANGER SPAM BOT-black?style=for-the-badge&logo=heroku)](https://heroku.com/deploy/)
 
 
 
